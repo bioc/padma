@@ -45,7 +45,8 @@ Suggests:
   ggplot2, 
   ggrepel, 
   car, 
-  cowplot
+  cowplot,
+  reshape2
 Description: 
   Use multiple factor analysis to calculate individualized pathway-centric 
   scores of deviation with respect to the sampled population based on multi-omic 
@@ -67,5 +68,5 @@ biocViews:
   MethylSeq
 Encoding: UTF-8
 LazyData: TRUE
-RoxygenNote: 7.2.1
+RoxygenNote: 7.3.1
 VignetteBuilder: knitr
