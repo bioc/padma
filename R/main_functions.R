@@ -34,8 +34,8 @@
 #' @return 
 #' An S4 object of class \code{padmaResults}, where individualized pathway 
 #' deviation scores are stored as the assay data, and the corresponding 
-#' {pathway name, full MFA results, number of genes, and names of imputed 
-#' or filtered genes} are stored as slots that can be retrieved using
+#' \{pathway name, full MFA results, number of genes, and names of imputed 
+#' or filtered genes\} are stored as slots that can be retrieved using
 #' the appropriate accessor functions.
 #'
 #' @export
